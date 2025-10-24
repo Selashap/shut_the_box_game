@@ -32,7 +32,7 @@ listed here are the Yolo models used for the assessment:
 
 Demonstration video:
 
-Link for the demonstration video appears under the name: Link_for_demonstration_video.txt
+Link for the demonstration video appears under the name: youtube_link_for_demonstration_video.txt
 
 Datasets:
 
